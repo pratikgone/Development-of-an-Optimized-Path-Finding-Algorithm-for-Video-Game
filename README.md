@@ -14,3 +14,15 @@
 
 5. **Modular Design**:  
    Designed with clean, reusable, and modular Python code, making it easy to integrate the algorithms into various game engines or frameworks.
+
+   ## Technologies Used
+- **Programming Language**: Python
+- **Algorith**:Dijkstra's,A*,and Bidirectional
+- **Libraries and Tools**:  
+  - `NumPy`: For efficient numerical operations and matrix handling.  
+  - `Matplotlib`: For visualizing the algorithms and their results.  
+  - `time`: To measure and compare execution times of the algorithms.  
+- **Development Environment**: Compatible with popular IDEs like VS Code, PyCharm, or Jupyter Notebook.  
+- **Version Control**: Git for managing project revisions and collaboration.  
+- **Testing**: Unit tests to validate algorithm functionality and correctness.  
+
