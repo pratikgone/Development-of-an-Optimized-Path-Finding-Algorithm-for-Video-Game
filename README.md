@@ -28,19 +28,17 @@
 
 ## Project Screenshots
 
-Dijkstra's Algorithm<br><img src="https://github.com/user-attachments/assets/695b5c66-b304-42d0-a353-8678d5dd6734" alt="Python - Personal - Microsoft Edge 1_13_2025 8_12_55 PM" width="400" />
-
+1. Dijkstra's Algorithm:<br><img src="https://github.com/user-attachments/assets/695b5c66-b304-42d0-a353-8678d5dd6734" alt="Python - Personal - Microsoft Edge 1_13_2025 8_12_55 PM" width="400" />
 <br/><br/>
 
-A* Algorithm<br><img src="https://github.com/user-attachments/assets/2da9b357-cc79-4b4c-a53f-e70b4b9b8dff" alt="Python 3 11 1_13_2025 8_13_46 PM" width="400" />
-
+2. A* Algorithm:<br><img src="https://github.com/user-attachments/assets/2da9b357-cc79-4b4c-a53f-e70b4b9b8dff" alt="Python 3 11 1_13_2025 8_13_46 PM" width="400" />
 <br/><br/>
 
-Bidirectional Algorithm<br><img src="https://github.com/user-attachments/assets/ea841396-70ca-4c2b-be1d-1baa08f4299d" alt="Python 3 11 1_13_2025 8_14_18 PM" width="400" />
+3. Bidirectional Algorithm:<br><img src="https://github.com/user-attachments/assets/ea841396-70ca-4c2b-be1d-1baa08f4299d" alt="Python 3 11 1_13_2025 8_14_18 PM" width="400" />
 # Installation
 1. Clone the repository:
    </br>
-git clone https://github.com/pratikgone/amazon_clone.git
+git clone https://github.com/pratikgone/Development-of-an-Optimized-Path-Finding-Algorithm-for-Video-Game
 
 
 
