@@ -1,0 +1,22 @@
+# Notes for Usage
+
+1. **Click to Open index.html**
+   - Locate the `index.html` file in the project directory.
+   - Double-click on the file to open it in your default web browser.
+
+2. **Accessing the Website**
+   - The `index.html` page serves as the entry point.
+   - Use this page to explore the website or application functionalities.
+
+3. **Using the Library**
+   - The library is integrated to provide specific features.
+   - Refer to the documentation or comments in the code for details on how the library is used.
+
+4. **Additional Information**
+   - Ensure all necessary Library (like pygame,heapq import heapify, heappush, heappop, or random, time) are present in the appropriate directories.
+   - If using local server requirements, set up as instructed in the project documentation.
+
+5. **Contact**
+   - For queries or troubleshooting, refer to the project readme or contact the project maintainer.
+
+# Happy Coding!
